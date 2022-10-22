@@ -17,9 +17,9 @@ int main(){
  
     int n;
     cin>>n;
-
     string s;
     cin>>s;
+ 
     int cntD=0;
     int cntA=0;
     
