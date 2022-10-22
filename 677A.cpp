@@ -28,6 +28,7 @@ int main(){
             cnt1+=1;
         }
     }
+ 
     cout<<cnt1+cnt2<<"\n";
  
     return 0;
